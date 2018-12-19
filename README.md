@@ -20,7 +20,7 @@ https://eleftherioseleftheriadis.github.io/D3js-US-educational-attainment/
 ![alt text](https://github.com/eleftherioseleftheriadis/hci-finalreport/blob/master/ps.png)
 ![alt text](https://github.com/eleftherioseleftheriadis/hci-finalreport/blob/master/ps2.png)
 ![alt text](https://github.com/eleftherioseleftheriadis/hci-finalreport/blob/master/ps3.png)
-![alt text](![alt text](https://github.com/eleftherioseleftheriadis/hci-finalreport/blob/master/toolb.png)
+![alt text](https://github.com/eleftherioseleftheriadis/hci-finalreport/blob/master/toolb.png)
 
 
 Πιο κάτω βλέπουμε πως τα διαγράμματα προσαρμόζονται σε μια πιο μικρή οθόνη όπως είναι αυτή ενός κινητού τηλεφώνου.
@@ -37,8 +37,8 @@ https://eleftherioseleftheriadis.github.io/D3js-US-educational-attainment/
 
 Για να εμφανίζεται μόνο ένα από τα γραφήματα της επιλογής μας κάθε φορά,προσθέθηκε η συνάρτηση maskandshow και έπειτα στο μενού το onclick=”maskandshow();”.
 
-![alt text](![alt text](https://github.com/eleftherioseleftheriadis/hci-finalreport/blob/master/mask.png)
-![alt text](![alt text](https://github.com/eleftherioseleftheriadis/hci-finalreport/blob/master/onclick.png)
+![alt text](https://github.com/eleftherioseleftheriadis/hci-finalreport/blob/master/mask.png)
+![alt text](https://github.com/eleftherioseleftheriadis/hci-finalreport/blob/master/onclick.png)
 
 
 Υπάρχει νέα σελίδα στην οποία είναι τα ίδια διαγράμματα και δεν έχω καταφέρει να προχωρήσω παρακάτω.
