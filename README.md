@@ -16,7 +16,9 @@ https://eleftherioseleftheriadis.github.io/D3js-US-educational-attainment/
 ## Παραδοτέα
 ### 1ο Παραδοτέο
 Οι Αλλαγές χρωμάτων κουμπιών και διεπαφών είναι εμφανές στις παρακάτω εικόνες.
-
+![alt text](https://github.com/eleftherioseleftheriadis/hci-finalreport/blob/master/ps.png)
+![alt text](https://github.com/eleftherioseleftheriadis/hci-finalreport/blob/master/ps2.png)
+![alt text](https://github.com/eleftherioseleftheriadis/hci-finalreport/blob/master/ps3.png)
 
 Πιο κάτω βλέπουμε πως τα διαγράμματα προσαρμόζονται σε μια πιο μικρή οθόνη όπως είναι αυτή ενός κινιτού τηλεφώνου.
 
