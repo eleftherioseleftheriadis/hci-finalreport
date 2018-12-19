@@ -15,12 +15,16 @@ https://eleftherioseleftheriadis.github.io/D3js-US-educational-attainment/
 
 ## Παραδοτέα
 ### 1ο Παραδοτέο
-Οι Αλλαγές χρωμάτων κουμπιών και διεπαφών είναι εμφανές στις παρακάτω εικόνες.
+Οι Αλλαγές χρωμάτων κουμπιών και διεπαφών είναι εμφανές στις παρακάτω εικόνες και ο κώδικας για την αλλαγή του κέρσορα και των κουπμιών.
+
 ![alt text](https://github.com/eleftherioseleftheriadis/hci-finalreport/blob/master/ps.png)
 ![alt text](https://github.com/eleftherioseleftheriadis/hci-finalreport/blob/master/ps2.png)
 ![alt text](https://github.com/eleftherioseleftheriadis/hci-finalreport/blob/master/ps3.png)
+![alt text](![alt text](https://github.com/eleftherioseleftheriadis/hci-finalreport/blob/master/toolb.png)
 
-Πιο κάτω βλέπουμε πως τα διαγράμματα προσαρμόζονται σε μια πιο μικρή οθόνη όπως είναι αυτή ενός κινιτού τηλεφώνου.
+
+Πιο κάτω βλέπουμε πως τα διαγράμματα προσαρμόζονται σε μια πιο μικρή οθόνη όπως είναι αυτή ενός κινητού τηλεφώνου.
+
 ![alt text](https://github.com/eleftherioseleftheriadis/hci-finalreport/blob/master/s1.jpg)
 ![alt text](https://github.com/eleftherioseleftheriadis/hci-finalreport/blob/master/s2.jpg)
 ![alt text](https://github.com/eleftherioseleftheriadis/hci-finalreport/blob/master/s3.jpg)
@@ -31,7 +35,11 @@ https://eleftherioseleftheriadis.github.io/D3js-US-educational-attainment/
 
 ### 2ο Παραδοτέο
 
-Για να εμφανίζεται μόνο ένα από τα γραφήματα της επιλογής μας κάθε φορά,προσθέθηκε η συνάρτηση maskandshow και έπειτα στο μενού το onclick=”();”.
+Για να εμφανίζεται μόνο ένα από τα γραφήματα της επιλογής μας κάθε φορά,προσθέθηκε η συνάρτηση maskandshow και έπειτα στο μενού το onclick=”maskandshow();”.
+
+![alt text](![alt text](https://github.com/eleftherioseleftheriadis/hci-finalreport/blob/master/mask.png)
+![alt text](![alt text](https://github.com/eleftherioseleftheriadis/hci-finalreport/blob/master/onclick.png)
+
 
 Υπάρχει νέα σελίδα στην οποία είναι τα ίδια διαγράμματα και δεν έχω καταφέρει να προχωρήσω παρακάτω.
 
