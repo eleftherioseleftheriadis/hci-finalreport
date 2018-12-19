@@ -30,6 +30,8 @@ https://eleftherioseleftheriadis.github.io/D3js-US-educational-attainment/
 ![alt text](https://github.com/eleftherioseleftheriadis/hci-finalreport/blob/master/s3.jpg)
 
 Παρακάτω βλέπουμε τον κώδικα που χρησιμοποιήθηκε για το text to speech που ζητήθηκε.
+![alt text](https://github.com/eleftherioseleftheriadis/hci-finalreport/blob/master/m1.png)
+![alt text](https://github.com/eleftherioseleftheriadis/hci-finalreport/blob/master/m.png)
 
 Εδώ βλέπουμε τον κώδικα με τον οποίο τα κουμπιά του μενού έχουν ήχο.
 
