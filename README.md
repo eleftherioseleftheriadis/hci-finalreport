@@ -33,6 +33,9 @@ https://eleftherioseleftheriadis.github.io/D3js-US-educational-attainment/
 
 Εδώ βλέπουμε τον κώδικα με τον οποίο τα κουμπιά του μενού έχουν ήχο.
 
+![alt text](https://github.com/eleftherioseleftheriadis/hci-finalreport/blob/master/BU1.jpg)
+![alt text](https://github.com/eleftherioseleftheriadis/hci-finalreport/blob/master/BU.jpg)
+
 ### 2ο Παραδοτέο
 
 Για να εμφανίζεται μόνο ένα από τα γραφήματα της επιλογής μας κάθε φορά,προσθέθηκε η συνάρτηση maskandshow και έπειτα στο μενού το onclick=”maskandshow();”.
