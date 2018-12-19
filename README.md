@@ -21,7 +21,9 @@ https://eleftherioseleftheriadis.github.io/D3js-US-educational-attainment/
 ![alt text](https://github.com/eleftherioseleftheriadis/hci-finalreport/blob/master/ps3.png)
 
 Πιο κάτω βλέπουμε πως τα διαγράμματα προσαρμόζονται σε μια πιο μικρή οθόνη όπως είναι αυτή ενός κινιτού τηλεφώνου.
-
+![alt text](https://github.com/eleftherioseleftheriadis/hci-finalreport/blob/master/s1.jpg)
+![alt text](https://github.com/eleftherioseleftheriadis/hci-finalreport/blob/master/s2.jpg)
+![alt text](https://github.com/eleftherioseleftheriadis/hci-finalreport/blob/master/s3.jpg)
 
 Παρακάτω βλέπουμε τον κώδικα που χρησιμοποιήθηκε για το text to speech που ζητήθηκε.
 
